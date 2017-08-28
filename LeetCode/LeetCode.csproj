@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{DD13817E-E283-4F0B-B0F3-FBF8E7EBAD3E}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LeetCode</RootNamespace>
     <AssemblyName>LeetCode</AssemblyName>
@@ -49,7 +49,10 @@
     <Compile Include="1_Two_Sum.cs" />
     <Compile Include="2_Add_Two_Numbers.cs" />
     <Compile Include="3_Longest_Substring_Without_Repeating_Characters.cs" />
+    <Compile Include="4_Median_of_Two_Sorted_Arrays.cs" />
+    <Compile Include="5_Longest_Palindromic_Substring.cs" />
     <Compile Include="Common\ListNode.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
