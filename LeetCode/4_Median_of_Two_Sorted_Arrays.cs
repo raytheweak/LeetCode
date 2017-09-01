@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace LeetCode
 {
-    class MedianofTwoSortedArraysSolution
+    public class MedianofTwoSortedArraysSolution
     {
         //i and j are two indexes pointing to the first element on the right side of the "split line".
         //Every element on the left should be smaller than those on the right.

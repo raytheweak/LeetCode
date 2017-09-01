@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    class LongestPalindromicSubstring
+    public class LongestPalindromicSubstring
     {
         // Transform S into T.
         // For example, S = "abba", T = "^#a#b#b#a#$".

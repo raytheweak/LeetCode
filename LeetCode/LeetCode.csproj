@@ -51,6 +51,9 @@
     <Compile Include="3_Longest_Substring_Without_Repeating_Characters.cs" />
     <Compile Include="4_Median_of_Two_Sorted_Arrays.cs" />
     <Compile Include="5_Longest_Palindromic_Substring.cs" />
+    <Compile Include="6_ZigZag_Conversion.cs" />
+    <Compile Include="7_Reverse_Integer.cs" />
+    <Compile Include="8_String_to_Integer.cs" />
     <Compile Include="Common\ListNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
