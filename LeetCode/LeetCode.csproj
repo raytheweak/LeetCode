@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="10_Regular_Expression_Matching.cs" />
     <Compile Include="11_Container_With_Most_Water.cs" />
+    <Compile Include="12_Integer_to_Roman.cs" />
+    <Compile Include="14_Longest_Common_Prefix.cs" />
     <Compile Include="1_Two_Sum.cs" />
     <Compile Include="2_Add_Two_Numbers.cs" />
     <Compile Include="3_Longest_Substring_Without_Repeating_Characters.cs" />
